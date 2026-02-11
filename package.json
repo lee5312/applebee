@@ -1,0 +1,12 @@
+{
+  "name": "applebee",
+  "version": "1.0.0",
+  "description": "> 코드네임: AppleBee | 이전 가제: AgentTycoon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
